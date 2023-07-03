@@ -2,3 +2,4 @@ https://docs.google.com/spreadsheets/d/19WVSQzJm-X3zJS_vpLFgA8Y8SLwiBHsg0JZIW4QT
 
 https://robertchoi.gitbook.io/ros/install
 
+roslaunch gazebo_ros empty_world.launch
